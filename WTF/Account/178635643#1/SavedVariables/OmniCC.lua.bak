@@ -1,0 +1,81 @@
+
+OmniCC4Config = {
+	["groupSettings"] = {
+		["base"] = {
+			["fontSize"] = 18,
+			["effect"] = "pulse",
+			["fontFace"] = "Fonts\\ARKai_T.TTF",
+			["yOff"] = 0,
+			["mmSSDuration"] = 0,
+			["minDuration"] = 2,
+			["xOff"] = 0,
+			["tenthsDuration"] = 0,
+			["fontOutline"] = "OUTLINE",
+			["anchor"] = "CENTER",
+			["minEffectDuration"] = 30,
+			["minSize"] = 0.5,
+			["styles"] = {
+				["seconds"] = {
+					["scale"] = 1,
+				},
+				["minutes"] = {
+					["scale"] = 1,
+				},
+				["soon"] = {
+					["scale"] = 1.5,
+				},
+				["hours"] = {
+					["scale"] = 0.75,
+				},
+				["charging"] = {
+					["scale"] = 0.75,
+				},
+				["controlled"] = {
+					["scale"] = 1.5,
+				},
+			},
+		},
+		["头哥"] = {
+			["fontSize"] = 18,
+			["styles"] = {
+				["minutes"] = {
+					["scale"] = 1,
+				},
+				["soon"] = {
+					["scale"] = 1.5,
+				},
+				["seconds"] = {
+					["scale"] = 1,
+				},
+				["hours"] = {
+					["scale"] = 0.75,
+				},
+				["charging"] = {
+					["scale"] = 0.75,
+				},
+				["controlled"] = {
+					["scale"] = 1.5,
+				},
+			},
+			["minSize"] = 0.5,
+			["minEffectDuration"] = 30,
+			["minDuration"] = 2,
+			["xOff"] = 0,
+			["tenthsDuration"] = 0,
+			["fontOutline"] = "OUTLINE",
+			["anchor"] = "CENTER",
+			["mmSSDuration"] = 0,
+			["yOff"] = 0,
+			["fontFace"] = "Fonts\\ARKai_T.TTF",
+		},
+	},
+	["groups"] = {
+		{
+			["id"] = "头哥",
+			["rules"] = {
+			},
+			["enabled"] = true,
+		}, -- [1]
+	},
+	["version"] = "8.2.5",
+}

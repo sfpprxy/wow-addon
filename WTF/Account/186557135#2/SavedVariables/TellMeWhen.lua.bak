@@ -1,0 +1,34 @@
+
+TellMeWhenDB = {
+	["profileKeys"] = {
+		["台州湾大炮王 - 觅心者"] = "台州湾大炮王 - 觅心者",
+	},
+	["global"] = {
+		["TextLayouts"] = {
+			["icon1"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+			["bar2"] = {
+				{
+				}, -- [1]
+				{
+				}, -- [2]
+			},
+		},
+	},
+	["Version"] = 86907,
+	["profiles"] = {
+		["台州湾大炮王 - 觅心者"] = {
+			["Version"] = 86907,
+			["Groups"] = {
+				{
+					["GUID"] = "TMW:group:1TXTQgY4ae0T",
+				}, -- [1]
+			},
+			["Locked"] = true,
+		},
+	},
+}

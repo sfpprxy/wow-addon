@@ -1,0 +1,17 @@
+
+BFCDB = {
+	["namespaces"] = {
+		["CHATFRAME"] = {
+		},
+		["ICONFRAME"] = {
+		},
+	},
+	["profileKeys"] = {
+		["头哥 - 觅心者"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+BFCSystemCacheDB = nil

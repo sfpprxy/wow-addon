@@ -1,0 +1,11 @@
+TheBurningTrade: enabled
+WhisperPop: enabled
+wMarker: enabled
+QuickCompare: enabled
+AttackTimer: enabled
+BigFootChat: enabled
+PlayerLink: enabled
+BigWigs_Plugins: enabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled
+WeakAurasCompanion: enabled

@@ -1,0 +1,145 @@
+
+BigFoot_Config = {
+	["BFVersion"] = 20120927,
+	["InfoBox"] = {
+		["EnableBlizzMove"] = 1,
+		["checkedVersion"] = "7",
+	},
+	["BigFootGadget"] = {
+		["ChangeFont"] = 0,
+		["EnableFasyFocus"] = 1,
+	},
+	["BigFootClassMod"] = {
+		["checkedVersion"] = "7",
+		["EnableAttackTimer"] = 1,
+	},
+	["BIGFOOT_VERSION_NEW"] = "zhCN1.13.2.7",
+	["TradeHelper"] = {
+		["EnableTradeHelper"] = 1,
+	},
+	["ActionBar"] = {
+		["EnableDistanceAlert"] = 1,
+		["checkedVersion"] = "7",
+	},
+	["BagManagement"] = {
+		["EnabelOpenAllBagsOnBank"] = 1,
+		["EnabelOpenAllBagsOnTrading"] = 1,
+		["checkedVersion"] = "7",
+	},
+	["MarkAssistant"] = {
+		["checkedVersion"] = "7",
+		["EnablewMarker"] = 0,
+	},
+	["BF_System"] = {
+		["EnableLoadLater"] = 0,
+		["checkedVersion"] = "7",
+	},
+	["InfoStat"] = {
+		["EnableQuickCompare"] = 1,
+	},
+	["ChatEnhancement"] = {
+		["EnableWhisperPop"] = 1,
+		["checkedVersion"] = "7",
+		["EnableAchievementCompare"] = 1,
+		["EnablePlayerLink"] = 1,
+		["EnableBFC"] = 1,
+	},
+}
+BigFoot_Error = {
+	["debug_Mod"] = false,
+	[10438064] = "TSM was just updated and may not work properly until you restart WoW.",
+	["ADDON_ACTION_FORBIDDEN"] = {
+		["ServerFriendsOnly"] = {
+			["combat"] = false,
+			["zone"] = "奥格瑞玛",
+			["class"] = "法师",
+			["race"] = "亡灵",
+			["time"] = 1572606312,
+			["trace"] = "Interface\\AddOns\\BigFoot\\BigFootError.lua:1: in function `BigFootErrorFrame_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n[C]: in function `GuildPromote'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
+			["level"] = 1,
+			["forbiddenfunc"] = "GuildPromote()",
+			["version"] = "zhCN1.13.2.8",
+		},
+		["FriendGroups"] = {
+			["combat"] = false,
+			["zone"] = "奥格瑞玛",
+			["class"] = "法师",
+			["race"] = "亡灵",
+			["time"] = 1571315262,
+			["version"] = "zhCN1.13.2.8",
+			["trace"] = "Interface\\AddOns\\BigFoot\\BigFootError.lua:1: in function `BigFootErrorFrame_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n[C]: in function `GuildPromote'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
+			["forbiddenfunc"] = "GuildPromote()",
+			["level"] = 1,
+		},
+	},
+}
+MBBDB = {
+	["profileKeys"] = {
+		["Fk - 木喉要塞"] = "Fk - 木喉要塞",
+	},
+	["profiles"] = {
+		["Fk - 木喉要塞"] = {
+			["keepsize"] = true,
+		},
+	},
+}
+BF_Gloable = nil
+BF_LogonInfo = {
+	1567941735, -- [1]
+	1567970089, -- [2]
+	1568047292, -- [3]
+	1568134230, -- [4]
+	1568434177, -- [5]
+	1568510779, -- [6]
+	1568605596, -- [7]
+	1568650570, -- [8]
+	1568741437, -- [9]
+	1568823659, -- [10]
+	1568941485, -- [11]
+	1568997663, -- [12]
+	1569115341, -- [13]
+	1569168264, -- [14]
+	1569257330, -- [15]
+	1569384758, -- [16]
+	1569428618, -- [17]
+	1569515608, -- [18]
+	1569600674, -- [19]
+	1569686508, -- [20]
+	1569772967, -- [21]
+	1569859266, -- [22]
+	1569989272, -- [23]
+	1570105943, -- [24]
+	1570119438, -- [25]
+	1570204811, -- [26]
+	1570326533, -- [27]
+	1570377616, -- [28]
+	1570464752, -- [29]
+	1570550426, -- [30]
+	1570676511, -- [31]
+	1570757187, -- [32]
+	1570810248, -- [33]
+	1570896201, -- [34]
+	1570991591, -- [35]
+	1571072377, -- [36]
+	1571187918, -- [37]
+	1571242037, -- [38]
+	1571328956, -- [39]
+	1571415080, -- [40]
+	1571533596, -- [41]
+	1571620276, -- [42]
+	1571708806, -- [43]
+	1571813304, -- [44]
+	1571916428, -- [45]
+	1571968199, -- [46]
+	1572019880, -- [47]
+	1572105822, -- [48]
+	1572197897, -- [49]
+	1572450455, -- [50]
+	1572451230, -- [51]
+	1572570159, -- [52]
+	1572662495, -- [53]
+	1572714560, -- [54]
+	1572824866, -- [55]
+	1572885663, -- [56]
+}
+ModelChangeVariable = nil

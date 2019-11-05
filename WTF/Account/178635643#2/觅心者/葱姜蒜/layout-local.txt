@@ -1,0 +1,15 @@
+Version: 1
+Frame: WhisperPopFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: -20
+W: 165
+H: 262
+Frame: FriendsFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 16
+Y: 99
+W: 338
+H: 424

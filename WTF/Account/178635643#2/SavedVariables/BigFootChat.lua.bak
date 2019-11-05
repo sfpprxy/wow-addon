@@ -1,0 +1,18 @@
+
+BFCDB = {
+	["namespaces"] = {
+		["CHATFRAME"] = {
+		},
+		["ICONFRAME"] = {
+		},
+	},
+	["profileKeys"] = {
+		["狗逼 - 觅心者"] = "Default",
+		["Fk - 木喉要塞"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+BFCSystemCacheDB = nil

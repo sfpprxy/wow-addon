@@ -1,0 +1,150 @@
+VER 3 000000000000002C "ADD" "INV_MISC_QUESTIONMARK"
+/addonusage
+END
+VER 3 0000000000000008 "AOE" "132121"
+/SAY 可以打了！
+END
+VER 3 0000000000000009 "Atlas" "134400"
+/AtlasLoot
+END
+VER 3 000000000000001A "BANK" "INV_MISC_QUESTIONMARK"
+/tsm bankui
+END
+VER 3 000000000000001F "guide" "134400"
+/guidelime
+END
+VER 3 0000000000000020 "knp" "134400"
+/knp
+END
+VER 3 0000000000000006 "NP" "INV_MISC_QUESTIONMARK"
+/np
+END
+VER 3 000000000000000A "Omc" "134400"
+/omnicc
+END
+VER 3 000000000000000B "Quar" "134400"
+/quartz
+END
+VER 3 000000000000002D "RL" "INV_MISC_QUESTIONMARK"
+/reload
+END
+VER 3 000000000000002B "SKIP" "INV_MISC_QUESTIONMARK"
+/click TSMSkipAuctioningBtn
+END
+VER 3 000000000000000C "TMW" "134400"
+/tmw
+END
+VER 3 0000000000000002 "TS" "135828"
+/tsm scan
+END
+VER 3 0000000000000005 "TSM" "INV_MISC_QUESTIONMARK"
+/tsm
+END
+VER 3 000000000000001E "TSMMacro" "INV_Misc_Flower_01"
+/click TSMCancelAuctionBtn
+/click TSMDestroyBtn
+/click TSMShoppingBuyoutBtn
+/click TSMSniperBtn
+/click TSMAuctioningBtn
+/click TSMVendoringSellAllButton
+/click TSMCraftingBtn
+END
+VER 3 000000000000000D "WA" "134400"
+/wa
+END
+VER 3 0000000000000021 "冲" "INV_Misc_QuestionMark"
+#showtooltip 冲锋
+/cast 战斗姿态
+/cast 冲锋
+/startattack
+END
+VER 3 000000000000000E "别A" "132089"
+/SAY 先别打!等我聚怪
+END
+VER 3 000000000000000F "压制A" "INV_Misc_QuestionMark"
+#showtooltip 压制
+/startattack
+/cast 压制
+END
+VER 3 0000000000000022 "反击" "INV_Misc_QuestionMark"
+#showtooltip 反击风暴
+/equip 旋风之斧
+/cast 反击风暴
+END
+VER 3 0000000000000023 "嗜血" "INV_Misc_QuestionMark"
+#showtooltip 嗜血
+#/equip 旋风之斧
+/equipslot 16 征服者之剑
+/equipslot 17 预兆之剑
+/cast 狂暴姿态
+/cast 血性狂暴
+/cast 嗜血
+/startattack
+END
+VER 3 0000000000000010 "战" "INV_Misc_QuestionMark"
+#showtooltip 战斗姿态
+/cast 战斗姿态
+/equip 血矛
+END
+VER 3 0000000000000024 "战" "INV_Misc_QuestionMark"
+#showtooltip 战斗姿态
+/cast 战斗姿态
+/equip 旋风之斧
+END
+VER 3 0000000000000025 "拦截" "INV_Misc_QuestionMark"
+#showtooltip 拦截
+/cast 狂暴姿态
+/cast 拦截
+END
+VER 3 0000000000000026 "控制" "INV_Misc_QuestionMark"
+#showtooltip 献祭
+/SAY 控制月亮
+/script SetRaidTarget("target",5) 
+END
+VER 3 0000000000000027 "旋风" "INV_Misc_QuestionMark"
+#showtooltip 旋风斩
+#/equip 旋风之斧
+/equipslot 16 征服者之剑
+/equipslot 17 预兆之剑
+/cast 狂暴姿态
+/cast 血性狂暴
+/cast 旋风斩
+/startattack
+END
+VER 3 0000000000000011 "目标" "132150"
+/tar 卡兹戈姆
+/startattack
+END
+VER 3 0000000000000012 "破甲A" "INV_Misc_QuestionMark"
+#showtooltip 破甲攻击
+/startattack
+/cast 破甲攻击
+END
+VER 3 0000000000000028 "组人" "132127"
+/7 剃刀高地来人++++++++++++++++随便来人4=1++++++++++++
+/1 剃刀高地来人+++++++++++++++随便来人4=1+++++++++++
+END
+VER 3 0000000000000013 "羊" "INV_Misc_QuestionMark"
+#showtooltip 献祭
+/SAY 羊掉月亮
+/script SetRaidTarget("target",5) 
+END
+VER 3 0000000000000029 "退" "132092"
+/y 先退后！
+END
+VER 3 000000000000002A "防" "INV_Misc_QuestionMark"
+#showtooltip 防御姿态
+/cast 防御姿态
+/equipslot 16 预兆之剑
+/equipslot 17 血色指挥官之盾
+END
+VER 3 0000000000000014 "防" "INV_Misc_QuestionMark"
+#showtooltip 防御姿态
+/cast 防御姿态
+/equip 指挥官纹章盾
+/equip 剃刀之锋
+END
+VER 3 0000000000000015 "集火" "132212"
+/SAY 先集火这个骷髅
+/script SetRaidTarget("target",8) 
+END

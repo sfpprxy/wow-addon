@@ -1,0 +1,15 @@
+Auc-Advanced: disabled
+SlideBar: disabled
+Stubby: disabled
+!Swatter: disabled
+Informant: disabled
+BigFootChat: disabled
+TheBurningTrade: enabled
+WhisperPop: enabled
+wMarker: enabled
+QuickCompare: disabled
+AttackTimer: disabled
+PlayerLink: enabled
+BigWigs_Plugins: enabled
+BigWigs_Core: enabled
+BigWigs_Options: enabled

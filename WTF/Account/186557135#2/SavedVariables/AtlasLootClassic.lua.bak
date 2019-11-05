@@ -1,0 +1,13 @@
+
+AtlasLootClassicDB = {
+	["global"] = {
+		["__addonrevision"] = 1010009,
+	},
+	["profileKeys"] = {
+		["台州湾大炮王 - 觅心者"] = "台州湾大炮王 - 觅心者",
+	},
+	["profiles"] = {
+		["台州湾大炮王 - 觅心者"] = {
+		},
+	},
+}

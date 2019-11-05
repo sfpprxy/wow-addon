@@ -1,0 +1,16 @@
+DBM-Core: disabled
+!Swatter: disabled
+SlideBar: disabled
+TellMeWhen: disabled
+Enchantrix: disabled
+Details: disabled
+ClassicCodex: disabled
+BigWigs: disabled
+AttackTimer: disabled
+BigFootChat: disabled
+TheBurningTrade: enabled
+WhisperPop: enabled
+wMarker: enabled
+QuickCompare: enabled
+PlayerLink: enabled
+WeakAurasCompanion: enabled

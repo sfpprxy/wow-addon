@@ -1,0 +1,125 @@
+
+AucAdvancedConfig = {
+	["version"] = 1,
+	["profile.Default"] = {
+		["uselocale"] = "zhCN",
+		["core"] = {
+			["matcher"] = {
+				["matcherlist"] = {
+					"BeanCount", -- [1]
+					"Undercut", -- [2]
+				},
+			},
+		},
+		["configator.left"] = 331.654357910156,
+		["scancommit.targetFPS"] = 20,
+		["ModTTShow"] = "alt",
+		["util"] = {
+			["appraiser"] = {
+				["columnsortcurDir"] = 1,
+				["columnsortcurSort"] = 9,
+				["ownauctions"] = true,
+			},
+			["compactui"] = {
+				["activated"] = false,
+			},
+			["automagic"] = {
+				["ammailguix"] = 160,
+				["SavedMailButtons"] = {
+				},
+			},
+			["ahwindowcontrol"] = {
+				["ahframeanchors"] = "LEFT:LEFT:147.7:38.3",
+			},
+		},
+		["printwindow"] = "队伍",
+		["stat"] = {
+			["simple"] = {
+				["avg7"] = true,
+				["stddev"] = true,
+				["tooltip"] = true,
+				["avg14"] = true,
+				["avg3"] = true,
+			},
+			["histogram"] = {
+				["median"] = true,
+				["tooltip"] = true,
+				["precision"] = true,
+			},
+			["ilevel"] = {
+				["normal"] = true,
+				["tooltip"] = true,
+				["mean"] = true,
+				["enable"] = false,
+			},
+			["sales"] = {
+				["avg7"] = true,
+				["stdev"] = true,
+				["confid"] = true,
+				["upgraded32"] = true,
+				["avg3"] = true,
+				["tooltip"] = true,
+				["ignoredsigs"] = {
+				},
+			},
+			["stddev"] = {
+				["normal"] = true,
+				["tooltip"] = true,
+				["mean"] = true,
+			},
+			["purchased"] = {
+				["avg7"] = true,
+				["reportsafe"] = true,
+				["avg3"] = true,
+				["avg14"] = true,
+				["tooltip"] = true,
+			},
+		},
+		["configator.top"] = 672.209838867188,
+	},
+	["users.觅心者.头哥"] = "Default",
+}
+AucAdvancedData = {
+	["UtilSearchUiData"] = {
+		["Current"] = {
+			["general.maxbuy"] = 9999999999,
+			["snatch.itemsList"] = {
+			},
+			["ignoreitemauctionhistory.enable"] = true,
+			["snatch.columnsortcurDir"] = 1,
+			["general.maxbid"] = 9999999999,
+			["snatch.columnsortcurSort"] = 1,
+		},
+		["Version"] = 1,
+		["Selected"] = "",
+		["Global"] = {
+			["configator.left"] = 232.666702270508,
+			["configator.top"] = 676.666687011719,
+		},
+		["SavedSearches"] = {
+			[""] = {
+				["general.maxbuy"] = 9999999999,
+				["snatch.itemsList"] = {
+				},
+				["snatch.columnsortcurSort"] = 1,
+				["snatch.columnsortcurDir"] = 1,
+				["general.maxbid"] = 9999999999,
+				["ignoreitemauctionhistory.enable"] = true,
+			},
+		},
+	},
+	["Stats"] = {
+	},
+}
+AucAdvancedServers = {
+	["Timestamp"] = 1567750676,
+	["KnownRealms"] = {
+		["奎尔塞拉"] = "奎尔塞拉",
+		["觅心者"] = "觅心者",
+	},
+	["KnownServerKeys"] = {
+		["奎尔塞拉"] = 1571416179,
+		["觅心者"] = 1572868488,
+	},
+	["Version"] = 1,
+}

@@ -1,0 +1,40 @@
+
+CodexConfig = {
+	["showLowLevel"] = false,
+	["showHighLevel"] = true,
+	["colorBySpawn"] = true,
+	["autoAccept"] = false,
+	["minimumDropChance"] = 2,
+	["allQuestGivers"] = true,
+	["showFestival"] = true,
+	["trackingMethod"] = 1,
+	["spawnMarkerSize"] = 10,
+	["currentQuestGivers"] = true,
+	["autoTurnin"] = false,
+	["nameplateIcon"] = true,
+	["questMarkerSize"] = 14,
+}
+CodexHiddenQuests = {
+}
+CodexBrowserFavorites = {
+	["items"] = {
+	},
+	["objets"] = {
+	},
+	["quests"] = {
+	},
+	["units"] = {
+	},
+}
+CodexColors = {
+	["睡梦雏龙"] = {
+		0.831372549019608, -- [1]
+		0.941176470588235, -- [2]
+		0.196078431372549, -- [3]
+	},
+	["翠绿幼龙"] = {
+		0.501960784313726, -- [1]
+		0.227450980392157, -- [2]
+		0.588235294117647, -- [3]
+	},
+}

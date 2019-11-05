@@ -1,0 +1,15 @@
+Version: 1
+Frame: Grid2LayoutFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 204
+Y: 66
+W: 68
+H: 68
+Frame: WhisperPopFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 0
+Y: -20
+W: 165
+H: 262

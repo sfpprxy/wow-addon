@@ -1,0 +1,147 @@
+
+BigFoot_Config = {
+	["BFVersion"] = 20120927,
+	["InfoBox"] = {
+		["EnableBlizzMove"] = 1,
+		["checkedVersion"] = "8",
+	},
+	["BigFootGadget"] = {
+		["ChangeFont"] = 0,
+		["checkedVersion"] = "8",
+		["EnableFasyFocus"] = 1,
+	},
+	["SingleAddons"] = {
+		["Auctionator"] = 0,
+	},
+	["BigFootClassMod"] = {
+		["checkedVersion"] = "8",
+		["EnableAttackTimer"] = 1,
+	},
+	["BIGFOOT_VERSION_NEW"] = "zhCN1.13.2.8",
+	["TradeHelper"] = {
+		["EnableTradeHelper"] = 1,
+		["checkedVersion"] = "8",
+	},
+	["ActionBar"] = {
+		["EnableDistanceAlert"] = 1,
+		["checkedVersion"] = "8",
+	},
+	["BagManagement"] = {
+		["EnabelOpenAllBagsOnBank"] = 1,
+		["EnabelOpenAllBagsOnTrading"] = 1,
+		["checkedVersion"] = "8",
+	},
+	["MarkAssistant"] = {
+		["checkedVersion"] = "8",
+		["EnablewMarker"] = 0,
+	},
+	["BF_System"] = {
+		["EnableLoadLater"] = 0,
+		["checkedVersion"] = "8",
+	},
+	["InfoStat"] = {
+		["checkedVersion"] = "8",
+		["EnableQuickCompare"] = 1,
+	},
+	["ChatEnhancement"] = {
+		["EnableWhisperPop"] = 1,
+		["checkedVersion"] = "8",
+		["EnableAchievementCompare"] = 1,
+		["EnablePlayerLink"] = 1,
+		["EnableBFC"] = 1,
+	},
+}
+BigFoot_Error = {
+	["ADDON_ACTION_FORBIDDEN"] = {
+		["TitanClassicLocation"] = {
+			["combat"] = false,
+			["zone"] = "提瑞斯法林地",
+			["class"] = "战士",
+			["race"] = "兽人",
+			["time"] = 1572363918,
+			["level"] = 46,
+			["trace"] = "Interface\\AddOns\\BigFoot\\BigFootError.lua:1: in function `BigFootErrorFrame_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n[C]: in function `?'\nInterface\\FrameXML\\UnitPopup.lua:1992: in function <Interface\\FrameXML\\UnitPopup.lua:1661>\n[C]: in function `func'\nInterface\\FrameXML\\UIDropDownMenu.lua:958: in function `UIDropDownMenuButton_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
+			["forbiddenfunc"] = "?()",
+			["version"] = "zhCN1.13.2.8",
+		},
+		["FriendGroups"] = {
+			["combat"] = false,
+			["zone"] = "奥格瑞玛",
+			["class"] = "战士",
+			["race"] = "兽人",
+			["time"] = 1569849086,
+			["version"] = "zhCN1.13.2.8",
+			["level"] = 35,
+			["forbiddenfunc"] = "GuildPromote()",
+			["trace"] = "Interface\\AddOns\\BigFoot\\BigFootError.lua:1: in function `BigFootErrorFrame_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n[C]: in function `GuildPromote'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
+		},
+	},
+	["debug_Mod"] = false,
+}
+MBBDB = {
+	["profileKeys"] = {
+		["头哥 - 觅心者"] = "头哥 - 觅心者",
+	},
+	["profiles"] = {
+		["头哥 - 觅心者"] = {
+			["MiniMap"] = {
+				["minimapPos"] = 183.297737992177,
+			},
+		},
+	},
+}
+BF_Gloable = nil
+BF_LogonInfo = {
+	1567935483, -- [1]
+	1567960879, -- [2]
+	1568110800, -- [3]
+	1568132073, -- [4]
+	1568219319, -- [5]
+	1568434071, -- [6]
+	1568510232, -- [7]
+	1568630883, -- [8]
+	1568651142, -- [9]
+	1568739076, -- [10]
+	1568892291, -- [11]
+	1568911749, -- [12]
+	1568997660, -- [13]
+	1569115340, -- [14]
+	1569171115, -- [15]
+	1569333826, -- [16]
+	1569416298, -- [17]
+	1569428291, -- [18]
+	1569582689, -- [19]
+	1569602006, -- [20]
+	1569762385, -- [21]
+	1569773309, -- [22]
+	1569862181, -- [23]
+	1569987116, -- [24]
+	1570106807, -- [25]
+	1570154639, -- [26]
+	1570341281, -- [27]
+	1570380799, -- [28]
+	1570723178, -- [29]
+	1570793615, -- [30]
+	1570810579, -- [31]
+	1570900112, -- [32]
+	1570982623, -- [33]
+	1571071590, -- [34]
+	1571312484, -- [35]
+	1571410050, -- [36]
+	1571416177, -- [37]
+	1571502338, -- [38]
+	1571838454, -- [39]
+	1571922087, -- [40]
+	1572014492, -- [41]
+	1572065791, -- [42]
+	1572137264, -- [43]
+	1572198215, -- [44]
+	1572326437, -- [45]
+	1572432122, -- [46]
+	1572452766, -- [47]
+	1572606586, -- [48]
+	1572663636, -- [49]
+	1572753833, -- [50]
+	1572865144, -- [51]
+}
+ModelChangeVariable = nil

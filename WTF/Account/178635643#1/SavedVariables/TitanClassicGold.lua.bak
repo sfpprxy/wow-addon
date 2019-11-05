@@ -1,0 +1,13 @@
+
+GoldSave = {
+	["Tyjj_奎尔塞拉::Horde"] = {
+		["show"] = true,
+		["name"] = "Tyjj",
+		["gold"] = 0,
+	},
+	["头哥_觅心者::Horde"] = {
+		["show"] = true,
+		["name"] = "头哥",
+		["gold"] = 734965,
+	},
+}
