@@ -1,24 +1,6 @@
 
 Combuctor_Sets = {
-	["tackleColor"] = {
-	},
-	["leatherColor"] = {
-	},
-	["enchantColor"] = {
-	},
-	["engineerColor"] = {
-	},
 	["reagentColor"] = {
-	},
-	["refrigeColor"] = {
-	},
-	["profiles"] = {
-	},
-	["mineColor"] = {
-	},
-	["inscribeColor"] = {
-	},
-	["soulColor"] = {
 	},
 	["gemColor"] = {
 	},
@@ -168,10 +150,28 @@ Combuctor_Sets = {
 			["showBags"] = true,
 		},
 	},
+	["engineerColor"] = {
+	},
+	["tackleColor"] = {
+	},
 	["herbColor"] = {
+	},
+	["profiles"] = {
+	},
+	["mineColor"] = {
+	},
+	["inscribeColor"] = {
+	},
+	["soulColor"] = {
+	},
+	["leatherColor"] = {
+	},
+	["enchantColor"] = {
+	},
+	["normalColor"] = {
 	},
 	["quiverColor"] = {
 	},
-	["normalColor"] = {
+	["refrigeColor"] = {
 	},
 }

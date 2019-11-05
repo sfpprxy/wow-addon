@@ -7,7 +7,7 @@ BlizzMoveDB = {
 	["InspectFrame"] = {
 	},
 	["AuctionFrame"] = {
-		["yOfs"] = 63.9703140258789,
+		["point"] = "CENTER",
 		["default"] = {
 			["relativeTo"] = "UIParent",
 			["point"] = "TOPLEFT",
@@ -16,10 +16,10 @@ BlizzMoveDB = {
 			["xOfs"] = 0,
 		},
 		["relativePoint"] = "CENTER",
-		["scale"] = 1.09999988079071,
+		["yOfs"] = 63.9703140258789,
 		["save"] = true,
 		["xOfs"] = 29.4142036437988,
-		["point"] = "CENTER",
+		["scale"] = 1.09999988079071,
 	},
 	["CommunitiesFrame"] = {
 	},
@@ -69,7 +69,7 @@ BlizzMoveDB = {
 	["AchievementFrame"] = {
 		["save"] = true,
 	},
-	["HelpFrame"] = {
+	["InterfaceOptionsFrame"] = {
 	},
 	["MacroFrame"] = {
 		["default"] = {
@@ -105,16 +105,6 @@ BlizzMoveDB = {
 		["xOfs"] = 237.037063598633,
 		["point"] = "LEFT",
 	},
-	["LootFrame"] = {
-	},
-	["GuildBankFrame"] = {
-		["save"] = true,
-	},
-	["SpellBookFrame"] = {
-	},
-	["BankFrame"] = {
-	},
-	["version"] = "201109013",
 	["VideoOptionsFrame"] = {
 		["default"] = {
 			["relativeTo"] = "UIParent",
@@ -127,6 +117,16 @@ BlizzMoveDB = {
 		["yOfs"] = 15.1357870101929,
 		["xOfs"] = 29.5185852050781,
 		["point"] = "CENTER",
+	},
+	["LootFrame"] = {
+	},
+	["SpellBookFrame"] = {
+	},
+	["BankFrame"] = {
+	},
+	["version"] = "201109013",
+	["GuildBankFrame"] = {
+		["save"] = true,
 	},
 	["QuestFrame"] = {
 	},
@@ -146,6 +146,6 @@ BlizzMoveDB = {
 	["CalendarFrame"] = {
 		["save"] = true,
 	},
-	["InterfaceOptionsFrame"] = {
+	["HelpFrame"] = {
 	},
 }

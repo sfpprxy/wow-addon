@@ -1,6 +1,24 @@
 
 Combuctor_Sets = {
+	["tackleColor"] = {
+	},
+	["leatherColor"] = {
+	},
+	["enchantColor"] = {
+	},
+	["engineerColor"] = {
+	},
 	["reagentColor"] = {
+	},
+	["refrigeColor"] = {
+	},
+	["profiles"] = {
+	},
+	["mineColor"] = {
+	},
+	["inscribeColor"] = {
+	},
+	["soulColor"] = {
 	},
 	["gemColor"] = {
 	},
@@ -38,8 +56,8 @@ Combuctor_Sets = {
 			["hiddenRules"] = {
 			},
 			["width"] = 384.000213623047,
-			["y"] = -127.918604218913,
-			["x"] = -66.7225652693862,
+			["y"] = -127.918622052229,
+			["x"] = -66.7225201335964,
 			["borderColor"] = {
 			},
 			["height"] = 440.000213623047,
@@ -141,37 +159,19 @@ Combuctor_Sets = {
 			},
 			["hiddenRules"] = {
 			},
-			["width"] = 600.000122070313,
-			["y"] = -95.3718512892251,
-			["x"] = 228.443206787109,
+			["width"] = 600.000183105469,
+			["y"] = -96.4828920717598,
+			["x"] = 80.6654357910156,
 			["borderColor"] = {
 			},
-			["height"] = 500.000091552734,
+			["height"] = 500.000061035156,
 			["showBags"] = true,
 		},
 	},
-	["engineerColor"] = {
-	},
-	["tackleColor"] = {
-	},
-	["normalColor"] = {
-	},
-	["profiles"] = {
-	},
-	["mineColor"] = {
-	},
-	["inscribeColor"] = {
-	},
-	["soulColor"] = {
-	},
-	["leatherColor"] = {
-	},
-	["enchantColor"] = {
-	},
-	["refrigeColor"] = {
+	["herbColor"] = {
 	},
 	["quiverColor"] = {
 	},
-	["herbColor"] = {
+	["normalColor"] = {
 	},
 }

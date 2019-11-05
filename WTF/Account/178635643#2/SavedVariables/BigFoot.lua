@@ -26,6 +26,17 @@ BigFoot_Config = {
 		["EnabelOpenAllBagsOnTrading"] = 1,
 		["checkedVersion"] = "7",
 	},
+	["MarkAssistant"] = {
+		["checkedVersion"] = "7",
+		["EnablewMarker"] = 0,
+	},
+	["BF_System"] = {
+		["EnableLoadLater"] = 0,
+		["checkedVersion"] = "7",
+	},
+	["InfoStat"] = {
+		["EnableQuickCompare"] = 1,
+	},
 	["ChatEnhancement"] = {
 		["EnableWhisperPop"] = 1,
 		["checkedVersion"] = "7",
@@ -33,43 +44,32 @@ BigFoot_Config = {
 		["EnablePlayerLink"] = 1,
 		["EnableBFC"] = 1,
 	},
-	["InfoStat"] = {
-		["EnableQuickCompare"] = 1,
-	},
-	["BF_System"] = {
-		["EnableLoadLater"] = 0,
-		["checkedVersion"] = "7",
-	},
-	["MarkAssistant"] = {
-		["checkedVersion"] = "7",
-		["EnablewMarker"] = 0,
-	},
 }
 BigFoot_Error = {
 	["debug_Mod"] = false,
 	[10438064] = "TSM was just updated and may not work properly until you restart WoW.",
 	["ADDON_ACTION_FORBIDDEN"] = {
-		["FriendGroups"] = {
-			["combat"] = false,
-			["zone"] = "奥格瑞玛",
-			["class"] = "法师",
-			["race"] = "亡灵",
-			["time"] = 1571315262,
-			["level"] = 1,
-			["trace"] = "Interface\\AddOns\\BigFoot\\BigFootError.lua:1: in function `BigFootErrorFrame_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n[C]: in function `GuildPromote'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
-			["forbiddenfunc"] = "GuildPromote()",
-			["version"] = "zhCN1.13.2.8",
-		},
 		["ServerFriendsOnly"] = {
 			["combat"] = false,
 			["zone"] = "奥格瑞玛",
 			["class"] = "法师",
 			["race"] = "亡灵",
 			["time"] = 1572606312,
-			["version"] = "zhCN1.13.2.8",
+			["level"] = 1,
 			["trace"] = "Interface\\AddOns\\BigFoot\\BigFootError.lua:1: in function `BigFootErrorFrame_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n[C]: in function `GuildPromote'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
 			["forbiddenfunc"] = "GuildPromote()",
+			["version"] = "zhCN1.13.2.8",
+		},
+		["FriendGroups"] = {
+			["combat"] = false,
+			["zone"] = "奥格瑞玛",
+			["class"] = "法师",
+			["race"] = "亡灵",
+			["time"] = 1571315262,
+			["version"] = "zhCN1.13.2.8",
 			["level"] = 1,
+			["forbiddenfunc"] = "GuildPromote()",
+			["trace"] = "Interface\\AddOns\\BigFoot\\BigFootError.lua:1: in function `BigFootErrorFrame_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n[C]: in function `GuildPromote'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n",
 		},
 	},
 }
